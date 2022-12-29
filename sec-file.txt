@@ -1,1 +1,2 @@
 This is second file created for Second brnach 
+Adding one more line to the file to check merging
